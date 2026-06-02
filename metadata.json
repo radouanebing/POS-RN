@@ -1,0 +1,6 @@
+{
+  "name": "ERP and POS System",
+  "description": "An Enterprise Resource Planning (ERP) and Point of Sale (POS) system for multi-branch retail and wholesale business management, with inventory, financial ledgers, employee attendance, and Islamic Zakat calculation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
